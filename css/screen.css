@@ -11,3 +11,7 @@ p {
     font-size: 36px;
     color: white;
 }
+
+span {
+    display: block;
+}
